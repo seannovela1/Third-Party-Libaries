@@ -1,1 +1,3 @@
 # Third-Party-Libaries
+
+AOS is a lightweight JavaScript library that enables you to add smooth scroll-triggered animations to your web page. By simply adding data attributes to HTML elements, you can make them fade, zoom, slide, or even flip as they come into view while scrolling. It's easy to implement and customize, making it a great choice for enhancing the user experience on landing pages, portfolios, or any site where you want to draw attention to specific content. With no complex coding required, AOS helps make your projects more dynamic and engaging with minimal effort.
